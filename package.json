@@ -4,6 +4,7 @@
 	"description": "Design Editor Tools with React.js + ant.design + fabric.js",
 	"main": "src/lib.ts",
 	"typings": "src/lib.ts",
+	"type": "module",
 	"files": [],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",

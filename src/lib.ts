@@ -1,1 +1,1 @@
-export { default as DesignEditor } from './editors/imagemap/ImageMapEditor';
+export { default as DesignEditor } from './editors/imagemap/ImageMapEditor.js';
